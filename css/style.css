@@ -331,7 +331,7 @@ ul{
     color: #28a3eb;
 }
 
-@media only screen and (max-width:812px){
+@media only screen and (max-width:981px){
     #header h1{
         text-align: center;
         float: none;
