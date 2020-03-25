@@ -331,7 +331,9 @@ ul{
     color: #28a3eb;
 }
 
-@media only screen and (max-width:981px){
+@media only screen 
+	and (max-width:981px) 
+	and (-webkit-min-device-pixel-ratio: 3){
     #header h1{
         text-align: center;
         float: none;
