@@ -1,4 +1,5 @@
 const navSlide = () => {
+    alert(window.innerWidth)
     const burger = document.querySelector('.burger');
     const nav = document.querySelector('.nav-links');
     const bg = document.querySelector('.background');
